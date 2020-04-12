@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f473448-c1c8-4320-8556-a144c53bdc50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="VtiIuPZJ" />
+  </component>
+  <component name="ProjectId" id="1SkOKGUe3qP0Nh8rW5ntPxSlEzp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpaceInvader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f473448-c1c8-4320-8556-a144c53bdc50" name="Default Changelist" comment="" />
+      <created>1572104061875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572104061875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="210" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585189382400">
+      <screen x="0" y="93" width="1536" height="771" />
+    </state>
+    <state x="449" y="210" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.93.1536.771@0.93.1536.771" timestamp="1585189382400" />
+    <state width="1515" height="157" key="GridCell.Tab.0.bottom" timestamp="1585191666476">
+      <screen x="0" y="93" width="1536" height="771" />
+    </state>
+    <state width="1515" height="157" key="GridCell.Tab.0.bottom/0.93.1536.771@0.93.1536.771" timestamp="1585191666476" />
+    <state width="1515" height="157" key="GridCell.Tab.0.center" timestamp="1585191666476">
+      <screen x="0" y="93" width="1536" height="771" />
+    </state>
+    <state width="1515" height="157" key="GridCell.Tab.0.center/0.93.1536.771@0.93.1536.771" timestamp="1585191666476" />
+    <state width="1515" height="157" key="GridCell.Tab.0.left" timestamp="1585191666475">
+      <screen x="0" y="93" width="1536" height="771" />
+    </state>
+    <state width="1515" height="157" key="GridCell.Tab.0.left/0.93.1536.771@0.93.1536.771" timestamp="1585191666475" />
+    <state width="1515" height="157" key="GridCell.Tab.0.right" timestamp="1585191666476">
+      <screen x="0" y="93" width="1536" height="771" />
+    </state>
+    <state width="1515" height="157" key="GridCell.Tab.0.right/0.93.1536.771@0.93.1536.771" timestamp="1585191666476" />
+    <state x="477" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1585188689633">
+      <screen x="0" y="93" width="1536" height="771" />
+    </state>
+    <state x="477" y="307" key="com.intellij.ide.util.TipDialog/0.93.1536.771@0.93.1536.771" timestamp="1585188689633" />
+  </component>
+</project>
